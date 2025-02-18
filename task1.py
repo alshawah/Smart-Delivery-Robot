@@ -1,3 +1,11 @@
+# task 1: Define the Grid Size
+
+# In this inital task, the user is prompted to enter the size of the grid they want (N,N), which can 
+# only be a number from 1-6. The program will then randomly generate a set of delivery points on the 
+# grid that the user defined.  Each cell will be labeled as either 'clear' or 'delivery'. The purpose
+# of this task was to create the basic environment that the final Robot will operate in, and ensuring
+# that the inputs by the user are all validated.
+
 import random
 
 # Step 1: Define the Grid Size
