@@ -1,3 +1,18 @@
+# Task 3: Run the Agent
+
+# In This task, the final task before the Advanced category, we build on both tasks 1 and 2 to create a robot
+# that continuously select the nearest delivery point and move step-by-step towards it, calculating the fastest 
+# way to arrive there. As the robot progresses, the grid updates after each move to show the current position 
+# to the user. Every time the robot delivers a parcel, up until the robot reaches the final parcel, the program
+# will update us by displaying the grid to the user. 
+
+# In order to calculate the fastest path to the delivery cell, the roboy uses the Manhattan distance as a 
+# heuristic to find out which delivery point is the closest. It then moves one cell at a time in the optimal 
+# direction.
+
+# Task 3 bings together all components of the program by demonstrating validation, grid visualisation, and proximity
+# based navigation are integreated to create an autonomous deliver system - a very very simple AI.
+
 import random
 
 # Step 1: Define the Smart Delivery Robot Class
