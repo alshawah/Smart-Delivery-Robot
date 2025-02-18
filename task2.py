@@ -1,4 +1,4 @@
-# Step 2: Generate Delivery Points
+# Task 2: Generate Delivery Points
 
 # This tasks builds on task 1 by generating unique delivery points within the grid. This task also initisialises
 # the delivery robot. The robot is given a starting position (user input) and is capable of moving in 4 directions;
