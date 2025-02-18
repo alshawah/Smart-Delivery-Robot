@@ -1,3 +1,13 @@
+# Step 2: Generate Delivery Points
+
+# This tasks builds on task 1 by generating unique delivery points within the grid. This task also initisialises
+# the delivery robot. The robot is given a starting position (user input) and is capable of moving in 4 directions;
+# up, down, right, left. It can also deliver parcels when it reaches a delivery point and then update the grid 
+# to make it a clear cell. This repeats until all the parcels are delivered, where the robot will then stop and
+# alert the user.
+
+# This task demonstrates the robot's ability to autonomosly make decisions and update dynamically in real time.
+
 import random
 
 # Step 1: Define the Robot Class
