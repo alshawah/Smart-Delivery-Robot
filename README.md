@@ -16,7 +16,15 @@ The full source code is organized into separate Python files for each task, and 
 ## Repository Structure
 
 
-Smart-Delivery-Robot/ ├── task1.py # Define grid size and generate delivery points ├── task2.py # Define the Smart Delivery Robot and its movement/delivery functions ├── task3.py # Run the agent (autonomous navigation) ├── advanced_task1.py # Enhanced environment with obstacles, no-entry zones, and one-way streets ├── advanced_task2.py # A* pathfinding and optimization for navigation ├── SmartDeliveryRobot.ipynb # Full interactive notebook with all code and commentary ├── Report.pdf # Final report detailing the project and design decisions ├── README.md # This file └── (Additional Diagrams/Video Files)
+Smart-Delivery-Robot/
+├── task1.py                     # Define grid size and generate delivery points
+├── task2.py                     # Define the Smart Delivery Robot and its movement/delivery functions
+├── task3.py                     # Run the agent (autonomous navigation)
+├── advanced_task1.py            # Enhanced environment with obstacles, no-entry zones, and one-way streets
+├── advanced_task2.py            # A* pathfinding and optimization for navigation
+├── SmartDeliveryRobot.ipynb     # Full interactive notebook with all code and commentary
+├── Report.pdf                   # Final report detailing the project and design decisions
+└── README.md                    # This file
 
 
 ---
@@ -29,45 +37,35 @@ Smart-Delivery-Robot/ ├── task1.py # Define grid size and generate deliver
    git clone https://github.com/alshawah/Smart-Delivery-Robot.git
    cd Smart-Delivery-Robot
 
-Run Individual Tasks:
+## Run Individual Tasks:
 
-To run Task 1:
-bash
-Copy
-python task1.py
-To run Task 2:
-bash
-Copy
-python task2.py
-To run Task 3:
-bash
-Copy
-python task3.py
-To run Advanced Task 1:
-bash
-Copy
-python advanced_task1.py
-To run Advanced Task 2:
-bash
-Copy
-python advanced_task2.py
+Task 1:
 
-Interactive Notebook:
+Task 2:
+
+Task 3:
+
+Task 1:
+
+Advanced Task 2:
+
+
+## Interactive Notebook:
 
 Open SmartDeliveryRobot.ipynb in Jupyter Notebook or JupyterLab for the complete code with inline commentary and detailed explanations.
 
-View the Report:
+## View the Report:
 
 The final report is available as Report.pdf in the repository, which documents the development process, design choices, ethical implications, and planning diagrams.
 
-Additional Information
+## Additional Information
 Diagrams & Flowcharts:
 The project includes flowcharts and a Gantt chart created using PlantUML (for flowcharts) and Mermaid (for Gantt charts). These visual aids were generated directly from code to streamline the design process and save time.
 
 Video Demonstration:
 A video demonstration of the Smart Delivery Robot in action is provided in the repository. This video highlights the key functionalities such as grid setup, autonomous navigation, and the integration of advanced pathfinding.
 
-References
+## References
 PlantText, “PlantUML Documentation,” [Online]. Available: https://www.planttext.com/ (Accessed: Feb. 2025).
 Mermaid, “Mermaid Documentation,” [Online]. Available: https://mermaid.live/ (Accessed: Feb. 2025).
 GeeksforGeeks, “A* Search Algorithm,” [Online]. Available: https://www.geeksforgeeks.org/a-search-algorithm/ (Accessed: Feb. 2025).
