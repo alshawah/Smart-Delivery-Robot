@@ -39,7 +39,7 @@ Smart-Delivery-Robot/
 
 ## Run Individual Tasks:
 
-Task 1:
+Task 1: [here](../main/task1.py)
 
 Task 2:
 
