@@ -1,28 +1,77 @@
-add pdf
-### Smart Delivery Robot
-Overview:
-The Smart Delivery Robot is an AI-driven simulation that navigates an urban grid to autonomously deliver parcels. This project demonstrates fundamental AI concepts such as environment creation, agent-based navigation, and advanced pathfinding using A* search, along with realistic urban constraints like obstacles, no-entry zones, and one-way streets.
+# Smart Delivery Robot
 
-Features
-Task 1: Environment Setup
+**Hesham Alshawabka**   
+**Last Modified: 18/02/2025**
 
-Create an N x N grid (with N between 1 and 6).
-Randomly generate delivery points.
-Display the environment with clear cells and designated delivery points.
-Task 2: Smart Delivery Robot
+---
 
-Define robot actions: move left, right, up, down, and deliver.
-Update the robot's position and delivery status.
-Validate user inputs and display the grid in a consistent, structured format.
-Task 3: Autonomous Navigation
+## Overview
 
-Automatically navigate the robot toward the nearest delivery point using Manhattan distance.
-Dynamically update the grid after each move and delivery.
-Notify the user upon completion of all deliveries.
-Advanced Component:
+This project simulates an autonomous delivery system operating within an urban grid environment. The aim is to progressively develop a Smart Delivery Robot that not only navigates and delivers parcels but also optimizes its route using advanced pathfinding techniques. The project is divided into a series of tasks that build from the basic creation of a grid to a fully functional autonomous agent. The final implementations are represented by Task 3 (the regular smart robot) and Advanced Task 2 (the robot with A* pathfinding optimization).
 
-Enhanced Environment:
-Introduce obstacles, no-entry zones, and one-way streets to simulate real-world urban constraints.
-Pathfinding and Optimization:
-Implement the A* search algorithm to compute optimal paths that avoid obstacles and respect grid constraints.
-Dynamically update the robot’s route based on computed optimal paths.
+The full source code is organized into separate Python files for each task, and the complete interactive IPython Notebook is also included in the repository. Additional planning diagrams, flowcharts, and a video demonstration are provided as supporting materials.
+
+---
+
+## Repository Structure
+
+
+Smart-Delivery-Robot/ ├── task1.py # Define grid size and generate delivery points ├── task2.py # Define the Smart Delivery Robot and its movement/delivery functions ├── task3.py # Run the agent (autonomous navigation) ├── advanced_task1.py # Enhanced environment with obstacles, no-entry zones, and one-way streets ├── advanced_task2.py # A* pathfinding and optimization for navigation ├── SmartDeliveryRobot.ipynb # Full interactive notebook with all code and commentary ├── Report.pdf # Final report detailing the project and design decisions ├── README.md # This file └── (Additional Diagrams/Video Files)
+
+
+---
+
+## How to Run
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/alshawah/Smart-Delivery-Robot.git
+   cd Smart-Delivery-Robot
+
+Run Individual Tasks:
+
+To run Task 1:
+bash
+Copy
+python task1.py
+To run Task 2:
+bash
+Copy
+python task2.py
+To run Task 3:
+bash
+Copy
+python task3.py
+To run Advanced Task 1:
+bash
+Copy
+python advanced_task1.py
+To run Advanced Task 2:
+bash
+Copy
+python advanced_task2.py
+
+Interactive Notebook:
+
+Open SmartDeliveryRobot.ipynb in Jupyter Notebook or JupyterLab for the complete code with inline commentary and detailed explanations.
+
+View the Report:
+
+The final report is available as Report.pdf in the repository, which documents the development process, design choices, ethical implications, and planning diagrams.
+
+Additional Information
+Diagrams & Flowcharts:
+The project includes flowcharts and a Gantt chart created using PlantUML (for flowcharts) and Mermaid (for Gantt charts). These visual aids were generated directly from code to streamline the design process and save time.
+
+Video Demonstration:
+A video demonstration of the Smart Delivery Robot in action is provided in the repository. This video highlights the key functionalities such as grid setup, autonomous navigation, and the integration of advanced pathfinding.
+
+References
+PlantText, “PlantUML Documentation,” [Online]. Available: https://www.planttext.com/ (Accessed: Feb. 2025).
+Mermaid, “Mermaid Documentation,” [Online]. Available: https://mermaid.live/ (Accessed: Feb. 2025).
+GeeksforGeeks, “A* Search Algorithm,” [Online]. Available: https://www.geeksforgeeks.org/a-search-algorithm/ (Accessed: Feb. 2025).
+UNESCO, “Ethical Implications of Artificial Intelligence,” [Online]. Available: https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases (Accessed: Feb. 2025).
+GeeksforGeeks, “Heuristic Function In AI,” [Online]. Available: https://www.geeksforgeeks.org/heuristic-function-in-ai/ (Accessed: Feb. 2025).
+This repository contains all the necessary files to run and understand the Smart Delivery Robot project. The project demonstrates key AI concepts through a series of progressive tasks, from basic grid creation to advanced optimization techniques, and is supported by detailed documentation, diagrams, and a video demonstration. Contributions and feedback are welcome!
+
