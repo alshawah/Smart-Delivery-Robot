@@ -39,15 +39,15 @@ Smart-Delivery-Robot/
 
 ## Run Individual Tasks:
 
-Task 1: [here](../main/task1.py)
+[Task 1](../main/task1.py)
 
-Task 2:
+[Task 2](../main/task2.py)
 
-Task 3:
+[Task 3](../main/task3.py)
 
-Task 1:
+[Advanced Task 1](../main/AdvancedTask1.py)
 
-Advanced Task 2:
+[Advanced Task 2](../main/AdvancedTask2.py)
 
 
 ## Interactive Notebook:
