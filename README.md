@@ -74,6 +74,7 @@ GeeksforGeeks, “A* Search Algorithm,” [Online]. Available: [https://www.geek
 UNESCO, “Ethical Implications of Artificial Intelligence,” [Online]. Available: [https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases) (Accessed: Feb. 2025).
 GeeksforGeeks, “Heuristic Function In AI,” [Online]. Available: [https://www.geeksforgeeks.org/heuristic-function-in-ai/](https://www.geeksforgeeks.org/heuristic-function-in-ai/) (Accessed: Feb. 2025).
 
+---
 
 ## This repository contains all the necessary files to run and understand the Smart Delivery Robot project. The project demonstrates key AI concepts through a series of progressive tasks, from basic grid creation to advanced optimization techniques, and is supported by detailed documentation, diagrams, and a video demonstration. Contributions and feedback are welcome!
 
