@@ -1,3 +1,15 @@
+# Advanced Component Task 1: Enhanced Environment
+
+# In this task, we extend the basic grid environment by incorporating realistic urban challenges. The program now
+# not only generates delivery points but also randomly places obstacles, no-entry zones, and one-way streets 
+# within the grid. Each cell is clearly labeled so that users can distinguish between clear cells, delivery points,
+# obstacles, and constrained areas such as no-entry zones and one-way streets. The purpose of this enhancement is
+# to simulate a more complex urban environment that the Smart Delivery Robot will need to navigate, providing a
+# more realistic context for testing its decision-making and adaptability. 
+
+# This task demonstrates the integration of additional environmental constraints, ensuring that the robot's
+# navigation system can be further challenged and refined.
+
 import random
 
 # --- Helper Functions ---
