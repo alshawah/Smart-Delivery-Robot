@@ -1,3 +1,16 @@
+# Advanced Component Task 2: Pathfinding and Optimization
+
+# Building on the enhanced environment, Advanced Task 2 focuses on improving the robot’s navigation through the
+# implementation of an A* search algorithm. In this task, the robot calculates the optimal path to each delivery
+# point by using Manhattan distance as a heuristic and a priority queue (implemented via heapq - a data structure
+# where we can access min and max values of the list much easier) to evaluate the best possible route. The 
+# algorithm takes into account the obstacles, no-entry zones, and one-way street constraints, ensuring that the
+# path chosen is both efficient and viable within the complex urban grid. As the robot follows the computed route,
+# the grid is updated dynamically after each move, and the system recalculates if any environmental changes occur. 
+
+# This task showcases the integration of advanced pathfinding techniques into the autonomous delivery system,
+# effectively demonstrating the principles of AI in optimizing real-time decision-making and route planning.
+
 import heapq
 import random
 
