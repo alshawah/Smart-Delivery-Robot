@@ -1,4 +1,4 @@
-Smart Delivery Robot
+### Smart Delivery Robot
 Overview:
 The Smart Delivery Robot is an AI-driven simulation that navigates an urban grid to autonomously deliver parcels. This project demonstrates fundamental AI concepts such as environment creation, agent-based navigation, and advanced pathfinding using A* search, along with realistic urban constraints like obstacles, no-entry zones, and one-way streets.
 
