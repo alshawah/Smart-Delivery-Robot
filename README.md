@@ -53,7 +53,7 @@ Smart-Delivery-Robot/
 ## Interactive Notebook:
 
 Open SmartDeliveryRobot.ipynb in Jupyter Notebook or JupyterLab for the complete code with inline commentary and detailed explanations.
-[Code](../main/Code.ipynd)
+[Code](../main/Code.ipynb)
 
 ## View the Report:
 
