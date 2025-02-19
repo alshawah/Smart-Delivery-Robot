@@ -63,11 +63,11 @@ The project includes flowcharts and a Gantt chart created using PlantUML (for fl
 
 
 ## References
-PlantText, “PlantUML Documentation,” [Online]. Available: [https://www.planttext.com/](https://www.planttext.com/) (Accessed: Feb. 2025).
-Mermaid, “Mermaid Documentation,” [Online]. Available: [https://mermaid.live/](https://mermaid.live/) (Accessed: Feb. 2025).
-GeeksforGeeks, “A* Search Algorithm,” [Online]. Available: [https://www.geeksforgeeks.org/a-search-algorithm/](https://www.geeksforgeeks.org/a-search-algorithm/) (Accessed: Feb. 2025).
-UNESCO, “Ethical Implications of Artificial Intelligence,” [Online]. Available: [https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases) (Accessed: Feb. 2025).
-GeeksforGeeks, “Heuristic Function In AI,” [Online]. Available: [https://www.geeksforgeeks.org/heuristic-function-in-ai/](https://www.geeksforgeeks.org/heuristic-function-in-ai/) (Accessed: Feb. 2025).
+PlantText, “PlantUML Documentation,” [Online]. Available: [https://www.planttext.com/](https://www.planttext.com/) (Accessed: Feb. 2025).  <br/>
+Mermaid, “Mermaid Documentation,” [Online]. Available: [https://mermaid.live/](https://mermaid.live/) (Accessed: Feb. 2025). <br/>
+GeeksforGeeks, “A* Search Algorithm,” [Online]. Available: [https://www.geeksforgeeks.org/a-search-algorithm/](https://www.geeksforgeeks.org/a-search-algorithm/) (Accessed: Feb. 2025). <br/>
+UNESCO, “Ethical Implications of Artificial Intelligence,” [Online]. Available: [https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics/cases) (Accessed: Feb. 2025). <br/>
+GeeksforGeeks, “Heuristic Function In AI,” [Online]. Available: [https://www.geeksforgeeks.org/heuristic-function-in-ai/](https://www.geeksforgeeks.org/heuristic-function-in-ai/) (Accessed: Feb. 2025). <br/>
 
 ---
 
