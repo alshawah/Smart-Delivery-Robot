@@ -58,13 +58,8 @@ Open SmartDeliveryRobot.ipynb in Jupyter Notebook or JupyterLab for the complete
 ## View the Report:
 
 The final report is available as Report.pdf in the repository, which documents the development process, design choices, ethical implications, and planning diagrams.
-[Report](../main/Code.ipynd)
-
-
-## Additional Information
-Diagrams & Flowcharts:
-The project includes flowcharts and a Gantt chart created using PlantUML (for flowcharts) and Mermaid (for Gantt charts). These visual aids were generated directly from code to streamline the design process and save time.
-[Code](../Report.pdf)
+The project includes flowcharts and a Gantt chart created using PlantUML (for flowcharts) and Mermaid (for Gantt charts). These visual aids were generated directly from code to streamline the design process and save time
+[Report](../main/Report.pdf)
 
 
 ## References
