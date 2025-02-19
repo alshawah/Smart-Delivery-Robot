@@ -26,7 +26,6 @@ Smart-Delivery-Robot/
 ├── Report.pdf                   # Final report detailing the project and design decisions
 └── README.md                    # This file
 
-
 ---
 
 ## How to Run
