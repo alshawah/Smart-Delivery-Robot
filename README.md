@@ -20,9 +20,10 @@ Smart-Delivery-Robot/ <br/>
 ├── task1.py  <br/>
 ├── task2.py  <br/>
 ├── task3.py  <br/>
-├── advanced_task1.py  <br/>
-├── advanced_task2.py  <br/>
-├── SmartDeliveryRobot.ipynb  <br/>
+├── AdvancedTask1.py  <br/>
+├── AdvancedTask2.py  <br/>
+├── Code.ipynb  <br/>
+├── Gantt Chart.png  <br/>
 ├── Report.pdf  <br/>
 └── README.md  <br/>
 
