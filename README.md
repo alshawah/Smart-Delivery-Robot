@@ -17,14 +17,14 @@ The full source code is organized into separate Python files for each task, and 
 
 
 Smart-Delivery-Robot/ <br/>
-├── task1.py
-├── task2.py
-├── task3.py
-├── advanced_task1.py
-├── advanced_task2.py
-├── SmartDeliveryRobot.ipynb
-├── Report.pdf
-└── README.md
+├── task1.py  <br/>
+├── task2.py  <br/>
+├── task3.py  <br/>
+├── advanced_task1.py  <br/>
+├── advanced_task2.py  <br/>
+├── SmartDeliveryRobot.ipynb  <br/>
+├── Report.pdf  <br/>
+└── README.md  <br/>
 
 ---
 
