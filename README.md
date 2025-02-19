@@ -17,14 +17,14 @@ The full source code is organized into separate Python files for each task, and 
 
 
 Smart-Delivery-Robot/
-├── task1.py                     # Define grid size and generate delivery points
-├── task2.py                     # Define the Smart Delivery Robot and its movement/delivery functions
-├── task3.py                     # Run the agent (autonomous navigation)
-├── advanced_task1.py            # Enhanced environment with obstacles, no-entry zones, and one-way streets
-├── advanced_task2.py            # A* pathfinding and optimization for navigation
-├── SmartDeliveryRobot.ipynb     # Full interactive notebook with all code and commentary
-├── Report.pdf                   # Final report detailing the project and design decisions
-└── README.md                    # This file
+├── task1.py
+├── task2.py
+├── task3.py
+├── advanced_task1.py
+├── advanced_task2.py
+├── SmartDeliveryRobot.ipynb
+├── Report.pdf
+└── README.md
 
 ---
 
